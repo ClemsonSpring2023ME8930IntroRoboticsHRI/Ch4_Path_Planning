@@ -3,6 +3,7 @@
 Created on Sun May  7 17:34:17 2023
 
 @author: Ryan
+Sample example to control multiple mobile robots using A-star
 """
 
 import heapq
